@@ -51,6 +51,7 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 3. Database:
 - MySql
 
+
 ### ================ Software And Tools Required ================
 - : Git [https://www.youtube.com/watch?v=gv7VPQ4LZ7g]
 - : Java JDK 8+ [https://www.youtube.com/watch?v=O9PWH9SeTTE]
