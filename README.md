@@ -15,6 +15,7 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 
 <span style="color:blue">**This Website is built for following purpose:-**</span>
 - For Selling books online.
+- new
 - Maintaining books selling history.
 - Adding and managing books.
 - User Friendly.
