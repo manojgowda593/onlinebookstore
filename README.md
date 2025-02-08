@@ -42,6 +42,7 @@ A user-friendly Online Bookstore project in which users can log in or register, 
 1. Front-End Development:
 - HTML
 - CSS
+- new
 - Javascript
 - BootStrap
 
